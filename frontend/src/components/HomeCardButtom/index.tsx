@@ -1,6 +1,6 @@
 const HomeCardButtom = () => {
   return (
-    <nav className="container button-tex">
+    <nav className="container">
       <button className="btn btn-primary">COMEÇAR</button>
     </nav>
   );

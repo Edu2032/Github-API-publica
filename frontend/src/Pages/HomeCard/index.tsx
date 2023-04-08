@@ -1,4 +1,4 @@
-import HomeCardButtom from "../HomeCardButtom";
+import HomeCardButtom from "../../components/HomeCardButtom";
 import "./styles.css";
 const HomeCard = () => {
   return (

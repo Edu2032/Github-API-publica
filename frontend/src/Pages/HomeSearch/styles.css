@@ -1,0 +1,12 @@
+.home-container {
+  background: #e6f7ff;
+  border-radius: 16px;
+  width: 1251px;
+  height: 270px;
+  margin-top: 20px;
+}
+.card-container h1{
+    position: relative;
+    padding-top: 40px;
+    padding-left: 20px;
+}

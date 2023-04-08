@@ -1,14 +1,10 @@
 import "./App.css";
-import HomeCard from "./components/HomeCard";
-import NavBar from "./components/NavBar";
+import Routes from "./Routes";
 
 function App() {
   return (
     <>
-      <NavBar />
-      <div>
-        <HomeCard />
-      </div>
+      <Routes />
     </>
   );
 }
