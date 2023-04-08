@@ -1,11 +1,14 @@
 import "./App.css";
+import HomeCard from "./components/HomeCard";
 import NavBar from "./components/NavBar";
 
 function App() {
   return (
     <>
       <NavBar />
-      <h1>Olá</h1>
+      <div>
+        <HomeCard />
+      </div>
     </>
   );
 }
